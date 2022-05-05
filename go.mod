@@ -1,4 +1,4 @@
-module github.com/d3mondev/resolvermt
+module github.com/abolinhas/resolvermt
 
 go 1.16
 
